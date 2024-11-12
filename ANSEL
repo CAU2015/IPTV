@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/WWE-Network-Logo.jpg" group-title="Lokal", J Drama
-https://iptv12k.com:35461/live/654321/123456/3175.ts
+https://iptv12k.com:35461/live/654321/123456/3173.ts
 #EXTINF:-1 tvg-name="TVRI" tvg-logo="https://hometv.pw/logo/lokal/tvri.png" group-title="Lokal",TVRI (D*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
